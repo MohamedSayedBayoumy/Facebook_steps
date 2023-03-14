@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LoginSteps</string>
+    <string name="facebook_app_id">682684390300461</string>
+    <string name="fb_login_protocol_scheme">fb682684390300461</string>
+    <string name="facebook_client_token">813ecd712f1e49045e2ff16fe967d352</string>
+
+
+</resources>
